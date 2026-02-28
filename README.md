@@ -18,6 +18,7 @@
 | 2026-02-25 | ¿Dónde está el baño? | 화장실이 어디에 있나요? |
 | 2026-02-26 | La cuenta, por favor. | 계산서 주세요. |
 | 2026-02-27 | ¿Me puede llevar a la Sagrada Familia, por favor? | 사그라다 파밀리아로 데려다 주시겠어요? |
+| 2026-02-28 | Soy alérgico/a a los mariscos. | 저는 해산물 알레르기가 있어요. |
 
 ## 📁 구조
 
