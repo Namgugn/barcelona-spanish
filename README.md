@@ -19,6 +19,7 @@
 | 2026-02-26 | La cuenta, por favor. | 계산서 주세요. |
 | 2026-02-27 | ¿Me puede llevar a la Sagrada Familia, por favor? | 사그라다 파밀리아로 데려다 주시겠어요? |
 | 2026-02-28 | Soy alérgico/a a los mariscos. | 저는 해산물 알레르기가 있어요. |
+| 2026-03-01 | ¿Puedo probármelo? | 이거 입어봐도 될까요? |
 
 ## 📁 구조
 
