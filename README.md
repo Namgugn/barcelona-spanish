@@ -21,6 +21,7 @@
 | 2026-02-28 | Soy alérgico/a a los mariscos. | 저는 해산물 알레르기가 있어요. |
 | 2026-03-01 | ¿Puedo probármelo? | 이거 입어봐도 될까요? |
 | 2026-03-02 | ¿A qué hora cierran? | 몇 시에 문을 닫나요? |
+| 2026-03-03 | ¿Puede hablar más despacio, por favor? | 천천히 말씀해 주시겠어요? |
 
 ## 📁 구조
 
