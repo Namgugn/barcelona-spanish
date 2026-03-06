@@ -24,6 +24,7 @@
 | 2026-03-03 | ¿Puede hablar más despacio, por favor? | 천천히 말씀해 주시겠어요? |
 | 2026-03-04 | ¿Este autobús va a la Sagrada Familia? | 이 버스 사그라다 파밀리아에 가나요? |
 | 2026-03-05 | ¿Puedo hacer una reserva para dos personas? | 두 명 예약할 수 있나요? |
+| 2026-03-06 | ¿Hay WiFi gratis? | 무료 와이파이 있나요? |
 
 ## 📁 구조
 
