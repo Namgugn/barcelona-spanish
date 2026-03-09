@@ -27,6 +27,7 @@
 | 2026-03-06 | ¿Hay WiFi gratis? | 무료 와이파이 있나요? |
 | 2026-03-07 | ¿Dónde estoy ahora? | 지금 여기가 어디예요? |
 | 2026-03-08 | La cuenta, por favor | 계산서 주세요 |
+| 2026-03-09 | Un café con leche, por favor. | 카페라떼 한 잔 주세요. |
 
 ## 📁 구조
 
