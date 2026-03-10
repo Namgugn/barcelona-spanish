@@ -28,6 +28,7 @@
 | 2026-03-07 | ¿Dónde estoy ahora? | 지금 여기가 어디예요? |
 | 2026-03-08 | La cuenta, por favor | 계산서 주세요 |
 | 2026-03-09 | Un café con leche, por favor. | 카페라떼 한 잔 주세요. |
+| 2026-03-10 | ¿Dónde puedo cambiar dinero? | 어디서 환전할 수 있나요? |
 
 ## 📁 구조
 
