@@ -30,6 +30,7 @@
 | 2026-03-09 | Un café con leche, por favor. | 카페라떼 한 잔 주세요. |
 | 2026-03-10 | ¿Dónde puedo cambiar dinero? | 어디서 환전할 수 있나요? |
 | 2026-03-11 | ¿Aceptan tarjeta de crédito? | 신용카드 받으세요? |
+| 2026-03-12 | ¿Me trae un vaso de agua, por favor? | 물 한 잔 가져다 주시겠어요? |
 
 ## 📁 구조
 
