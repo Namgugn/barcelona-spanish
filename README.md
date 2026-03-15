@@ -32,6 +32,7 @@
 | 2026-03-11 | ¿Aceptan tarjeta de crédito? | 신용카드 받으세요? |
 | 2026-03-12 | ¿Me trae un vaso de agua, por favor? | 물 한 잔 가져다 주시겠어요? |
 | 2026-03-14 | ¿Hay alguna farmacia cerca de aquí? | 이 근처에 약국이 있나요? |
+| 2026-03-15 | ¿Se puede tomar fotos aquí? | 여기서 사진 찍어도 되나요? |
 
 ## 📁 구조
 
