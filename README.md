@@ -36,6 +36,7 @@
 | 2026-03-16 | ¿Me puede traer la cuenta, por favor? | 계산서 좀 가져다 주시겠어요? |
 | 2026-03-17 | ¿Dónde tengo que bajarme? | 어디서 내려야 하나요? |
 | 2026-03-18 | ¿Me puede ayudar, por favor? | 도와주실 수 있나요? |
+| 2026-03-19 | ¿Puedo dejar mi equipaje aquí? | 여기에 짐을 맡길 수 있나요? |
 
 ## 📁 구조
 
