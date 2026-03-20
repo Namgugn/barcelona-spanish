@@ -37,6 +37,7 @@
 | 2026-03-17 | ¿Dónde tengo que bajarme? | 어디서 내려야 하나요? |
 | 2026-03-18 | ¿Me puede ayudar, por favor? | 도와주실 수 있나요? |
 | 2026-03-19 | ¿Puedo dejar mi equipaje aquí? | 여기에 짐을 맡길 수 있나요? |
+| 2026-03-20 | ¿Cuánto es de aquí a la playa? | 여기서 해변까지 얼마예요? |
 
 ## 📁 구조
 
