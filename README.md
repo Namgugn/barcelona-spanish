@@ -39,6 +39,7 @@
 | 2026-03-19 | ¿Puedo dejar mi equipaje aquí? | 여기에 짐을 맡길 수 있나요? |
 | 2026-03-20 | ¿Cuánto es de aquí a la playa? | 여기서 해변까지 얼마예요? |
 | 2026-03-21 | ¿Tienen mesa para dos? | 2명 자리 있나요? |
+| 2026-03-22 | ¿Esto qué es? | 이게 뭐예요? |
 
 ## 📁 구조
 
