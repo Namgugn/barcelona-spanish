@@ -43,6 +43,7 @@
 | 2026-03-23 | ¿Me lo puede escribir, por favor? | 그것 좀 적어주시겠어요? |
 | 2026-03-24 | He perdido mi maleta. | 제 가방을 잃어버렸어요. |
 | 2026-03-25 | Para llevar, por favor. | 포장해 주세요. |
+| 2026-03-26 | ¿A qué hora es el desayuno? | 조식이 몇 시예요? |
 
 ## 📁 구조
 
