@@ -44,6 +44,7 @@
 | 2026-03-24 | He perdido mi maleta. | 제 가방을 잃어버렸어요. |
 | 2026-03-25 | Para llevar, por favor. | 포장해 주세요. |
 | 2026-03-26 | ¿A qué hora es el desayuno? | 조식이 몇 시예요? |
+| 2026-03-27 | ¡Está muy rico! | 정말 맛있어요! |
 
 ## 📁 구조
 
