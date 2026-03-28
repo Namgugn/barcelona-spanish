@@ -45,6 +45,7 @@
 | 2026-03-25 | Para llevar, por favor. | 포장해 주세요. |
 | 2026-03-26 | ¿A qué hora es el desayuno? | 조식이 몇 시예요? |
 | 2026-03-27 | ¡Está muy rico! | 정말 맛있어요! |
+| 2026-03-28 | Me he perdido. ¿Me puede ayudar? | 길을 잃었어요. 도와주실 수 있나요? |
 
 ## 📁 구조
 
