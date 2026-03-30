@@ -47,6 +47,7 @@
 | 2026-03-27 | ¡Está muy rico! | 정말 맛있어요! |
 | 2026-03-28 | Me he perdido. ¿Me puede ayudar? | 길을 잃었어요. 도와주실 수 있나요? |
 | 2026-03-29 | La cuenta, por favor. | 계산서 주세요. |
+| 2026-03-30 | No entiendo. ¿Habla inglés? | 이해가 안 돼요. 영어 하세요? |
 
 ## 📁 구조
 
