@@ -49,6 +49,7 @@
 | 2026-03-29 | La cuenta, por favor. | 계산서 주세요. |
 | 2026-03-30 | No entiendo. ¿Habla inglés? | 이해가 안 돼요. 영어 하세요? |
 | 2026-03-31 | ¿Me puede recomendar algún plato típico? | 전형적인 요리를 추천해 주실 수 있나요? |
+| 2026-04-01 | ¿Me puede hacer un descuento? | 할인해 주실 수 있나요? |
 
 ## 📁 구조
 
